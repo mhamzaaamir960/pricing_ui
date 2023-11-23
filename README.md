@@ -1,2 +1,2 @@
 # pricing_ui
-Designed Pricing UI pageusing Tailwind CSS
+Designed Pricing UI page using Tailwind CSS
